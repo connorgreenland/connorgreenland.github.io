@@ -1,3 +1,3 @@
 module.exports = {
-   publicPath: '/connorgreenland.github.io/'
+   publicPath: '/ConnorGreenland.github.io/'
     }
