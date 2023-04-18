@@ -68,7 +68,7 @@
                   <ul class="nav justify-content-center">
                     <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/connorgreenland/" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">Twitter</span></a>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="https://docs.google.com/spreadsheets/d/1h8ZWtHB0aEbs3-1FyOb3s-jvdokKdZVL8ZGzpcWB10k/edit#gid=0" title="Porfolio"><i class="fab fa-briefcase"></i><span class="menu-title sr-only">Portfolio</span></a>
+                    <li class="nav-item"><a class="nav-link" href="https://docs.google.com/spreadsheets/d/1h8ZWtHB0aEbs3-1FyOb3s-jvdokKdZVL8ZGzpcWB10k/edit#gid=0" title="Porfolio"><i class="fab fa-google-drive"></i><span class="menu-title sr-only">Portfolio</span></a>
                     </li>
                   </ul>
                 </nav>
@@ -262,7 +262,7 @@
               <ul class="nav justify-content-center">
                 <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/connorgreenland/" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">LinkedIn</span></a>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="https://docs.google.com/spreadsheets/d/1h8ZWtHB0aEbs3-1FyOb3s-jvdokKdZVL8ZGzpcWB10k/edit#gid=0" title="Portfolio"><i class="fab fa-briefcase"></i><span class="menu-title sr-only">Portfolio</span></a>
+                    <li class="nav-item"><a class="nav-link" href="https://docs.google.com/spreadsheets/d/1h8ZWtHB0aEbs3-1FyOb3s-jvdokKdZVL8ZGzpcWB10k/edit#gid=0" title="Portfolio"><i class="fab fa-google-drive"></i><span class="menu-title sr-only">Portfolio</span></a>
                     </li>
               </ul>
             </nav>
