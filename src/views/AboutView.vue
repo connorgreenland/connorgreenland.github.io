@@ -85,8 +85,7 @@
       <div class="row">
         <div class="col-md-6">
           <h2 class="h2 fw-light mb-4">About Me</h2>
-          <p>Hello! I’m Connor Greenland. I have 5 years experience in technology environments that focus on software as a service. I am a skilled <strong>full-stack developer</strong> with an emphasis on robust backend that efficiently serves light weight front end. I am a quick learner that does best getting thrown into the weeds with team resources to bounce off of.</p>
-          <p>I am good working on deadlines and managing long running projects. I know how to interact with clients to make the most of meetings and get or deliver the information needed.</p>
+          <p>Hello! I’m Connor Greenland. I have 7 years of experience offering finance and accounting services for SaaS and high-growth services businesses. My experience and interest are in scaling financial operations for companies earning $1m to $25m in annual revenue. Leveraging my expertise in financial planning and analysis, leadership, and strategic planning, my mission is to drive long-term growth and success for my clients. I bring a proven track record of collaborating with cross-functional teams, fostering a positive work culture, and implementing cutting-edge technologies to achieve corporate goals and objectives.</p>
         </div>
         <div class="col-md-5 offset-lg-1">
           <div class="row mt-2">
@@ -125,44 +124,44 @@
       <h2 class="h2 fw-light mb-4">Professional Skills</h2>
       <div class="row">
         <div class="col-md-6">
-          <div class="mb-3"><span class="fw-bolder">C#</span>
+          <div class="mb-3"><span class="fw-bolder">Financial Modeling</span>
             <div class="progress my-2 rounded" style="height: 20px">
               <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 95%;" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">Master</div>
             </div>
           </div>
-          <div class="mb-3"><span class="fw-bolder">Javascript</span>
+          <div class="mb-3"><span class="fw-bolder">Financial Accounting</span>
             <div class="progress my-2 rounded" style="height: 20px">
               <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="200" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">Expert</div>
             </div>
           </div>
-          <div class="mb-3"><span class="fw-bolder">CSS</span>
+          <div class="mb-3"><span class="fw-bolder">SaaS KPIs</span>
             <div class="progress my-2 rounded" style="height: 20px">
               <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Advanced</div>
             </div>
           </div>
-          <div class="mb-3"><span class="fw-bolder">HTML</span>
+          <div class="mb-3"><span class="fw-bolder">Benchmarking</span>
             <div class="progress my-2 rounded" style="height: 20px">
               <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Advanced</div>
             </div>
           </div>
         </div>
         <div class="col-md-6">
-          <div class="mb-3"><span class="fw-bolder">SQL</span>
+          <div class="mb-3"><span class="fw-bolder">Budgeting & Forecasting</span>
             <div class="progress my-2 rounded" style="height: 20px">
               <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">Master</div>
             </div>
           </div>
-          <div class="mb-3"><span class="fw-bolder">Git</span>
+          <div class="mb-3"><span class="fw-bolder">Strategic Financial Planning</span>
             <div class="progress my-2 rounded" style="height: 20px">
               <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">Expert</div>
             </div>
           </div>
-          <div class="mb-3"><span class="fw-bolder">Azure</span>
+          <div class="mb-3"><span class="fw-bolder">Technology Implementation</span>
             <div class="progress my-2 rounded" style="height: 20px">
               <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="500" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">Advanced</div>
             </div>
           </div>
-          <div class="mb-3"><span class="fw-bolder">Visual Studio</span>
+          <div class="mb-3"><span class="fw-bolder">Staff Development</span>
             <div class="progress my-2 rounded" style="height: 20px">
               <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="600" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Advanced</div>
             </div>
