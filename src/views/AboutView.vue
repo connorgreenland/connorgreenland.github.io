@@ -176,10 +176,10 @@
       <div class="timeline">
         <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
           <div class="timeline-head px-4 pt-3">
-            <div class="h5">Software Developer <span class="text-muted h6">at TrackAbout</span></div>
+            <div class="h5">Finance Manager <span class="text-muted h6">at TrackAbout</span></div>
           </div>
           <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">June, 2021 - Present</div>
+            <div class="text-muted text-small mb-3">Jan, 2022 - Present</div>
             <div>Develop, implement, and support .NET web based and Android/IOS application for the tracking of returnable assets.</div>
           </div>
         </div>
