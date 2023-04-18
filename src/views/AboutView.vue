@@ -146,7 +146,7 @@
           </div>
         </div>
         <div class="col-md-6">
-          <div class="mb-3"><span class="fw-bolder">Budgeting & Forecasting</span>
+          <div class="mb-3"><span class="fw-bolder">Budgeting</span>
             <div class="progress my-2 rounded" style="height: 20px">
               <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">Master</div>
             </div>
