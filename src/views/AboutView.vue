@@ -85,7 +85,7 @@
       <div class="row">
         <div class="col-md-6">
           <h2 class="h2 fw-light mb-4">About Me</h2>
-          <p>Hello! I’m Matthew Wall. I have 5 years experience in technology environments that focus on software as a service. I am a skilled <strong>full-stack developer</strong> with an emphasis on robust backend that efficiently serves light weight front end. I am a quick learner that does best getting thrown into the weeds with team resources to bounce off of.</p>
+          <p>Hello! I’m Connor Greenland. I have 5 years experience in technology environments that focus on software as a service. I am a skilled <strong>full-stack developer</strong> with an emphasis on robust backend that efficiently serves light weight front end. I am a quick learner that does best getting thrown into the weeds with team resources to bounce off of.</p>
           <p>I am good working on deadlines and managing long running projects. I know how to interact with clients to make the most of meetings and get or deliver the information needed.</p>
         </div>
         <div class="col-md-5 offset-lg-1">
@@ -215,7 +215,7 @@
           </div>
           <div class="timeline-body px-4 pb-4">
             <div class="text-muted text-small mb-3">2014 - 2018</div>
-            <div>Double major in Audio Engineering Technology and Mathematics</div>
+            <div>Dual major in Accounting and Music Business</div>
             <div>Undergraduate Research Fellowships in the Sciences 2017</div>
           </div>
         </div>
