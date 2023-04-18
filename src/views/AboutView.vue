@@ -68,12 +68,12 @@
                   <ul class="nav justify-content-center">
                     <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/connorgreenland/" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">Twitter</span></a>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="https://github.com/connorgreenland" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">Github</span></a>
+                    <li class="nav-item"><a class="nav-link" href="https://docs.google.com/spreadsheets/d/1h8ZWtHB0aEbs3-1FyOb3s-jvdokKdZVL8ZGzpcWB10k/edit#gid=0" title="Porfolio"><i class="fab fa-briefcase"></i><span class="menu-title sr-only">Portfolio</span></a>
                     </li>
                   </ul>
                 </nav>
               </div>
-              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" href="/assets/Connor_Greenland_2023_Resume.pdf" download="Connor_Greenland_2023_Resume.pdf" data-aos="fade-right" data-aos-delay="700">Download CV</a><a class="btn btn-info btn-lg shadow-sm mt-1" href="#contact" data-aos="fade-left" data-aos-delay="700">Hire Me</a></div>
+              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" href="/assets/Connor_Greenland_2023_Resume.pdf" download="Connor_Greenland_2023_Resume.pdf" data-aos="fade-right" data-aos-delay="700">Download Resume</a><a class="btn btn-info btn-lg shadow-sm mt-1" href="#contact" data-aos="fade-left" data-aos-delay="700">Hire Me</a></div>
             </div>
           </div>
         </div>
@@ -262,7 +262,7 @@
               <ul class="nav justify-content-center">
                 <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/connorgreenland/" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">LinkedIn</span></a>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="https://github.com/connorgreenland" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">Github</span></a>
+                    <li class="nav-item"><a class="nav-link" href="https://docs.google.com/spreadsheets/d/1h8ZWtHB0aEbs3-1FyOb3s-jvdokKdZVL8ZGzpcWB10k/edit#gid=0" title="Portfolio"><i class="fab fa-briefcase"></i><span class="menu-title sr-only">Portfolio</span></a>
                     </li>
               </ul>
             </nav>
