@@ -227,7 +227,7 @@
       <div class="row mb-4 d-flex">
         <div class="col-md" data-aos="fade-left" data-aos-delay="200">
           <div class="mt-1">
-            <div class="h6"><i class="fas fa-phone pe-2 text-muted" style="width:24px;opacity:0.85;"></i> +0513-254-2700</div>
+            <div class="h6"><i class="fas fa-phone pe-2 text-muted" style="width:24px;opacity:0.85;"></i> +0814-937-8428</div>
             <div class="h6"><i class="far fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i> cgreenland93@gmail.com</div>
           </div>
           <div class="mt-5 d-print-none"><form action="https://formspree.io/f/xdoverpr" method="POST">
