@@ -61,19 +61,19 @@
             <div class="header-bio mt-3">
               <div data-aos="zoom-in" data-aos-delay="0">
                 <h2 class="h1">Connor Greenland</h2>
-                <p>Full-Stack Software Developer</p>
+                <p>SaaS Finance Manager</p>
               </div>
               <div class="header-social mb-3 d-print-none" data-aos="zoom-in" data-aos-delay="200">
                 <nav role="navigation">
                   <ul class="nav justify-content-center">
-                    <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/matthewtwall/" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">Twitter</span></a>
+                    <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/connorgreenland/" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">Twitter</span></a>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="https://github.com/waltersavenger" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">Github</span></a>
+                    <li class="nav-item"><a class="nav-link" href="https://github.com/connorgreenland" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">Github</span></a>
                     </li>
                   </ul>
                 </nav>
               </div>
-              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" href="/assets/Connor_Greenland_2023_Resume.pdf" download="MatthewWall_CV.pdf" data-aos="fade-right" data-aos-delay="700">Download CV</a><a class="btn btn-info btn-lg shadow-sm mt-1" href="#contact" data-aos="fade-left" data-aos-delay="700">Hire Me</a></div>
+              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" href="/assets/Connor_Greenland_2023_Resume.pdf" download="Connor_Greenland_2023_Resume.pdf" data-aos="fade-right" data-aos-delay="700">Download CV</a><a class="btn btn-info btn-lg shadow-sm mt-1" href="#contact" data-aos="fade-left" data-aos-delay="700">Hire Me</a></div>
             </div>
           </div>
         </div>
@@ -95,19 +95,19 @@
               <div class="pb-2 fw-bolder"><i class="far fa-calendar-alt pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Age</div>
             </div>
             <div class="col-sm-7">
-              <div class="pb-2">27</div>
+              <div class="pb-2">29</div>
             </div>
             <div class="col-sm-5">
               <div class="pb-2 fw-bolder"><i class="far fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Email</div>
             </div>
             <div class="col-sm-7">
-              <div class="pb-2">matthewtwall@outlook.com</div>
+              <div class="pb-2">cgreenland93@gmail.com</div>
             </div>
             <div class="col-sm-5">
               <div class="pb-2 fw-bolder"><i class="fas fa-phone pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Phone</div>
             </div>
             <div class="col-sm-7">
-              <div class="pb-2">+0513-254-2700</div>
+              <div class="pb-2">+0814-937-8428</div>
             </div>
             <div class="col-sm-5">
               <div class="pb-2 fw-bolder"><i class="fas fa-map-marker-alt pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Location</div>
@@ -229,7 +229,7 @@
         <div class="col-md" data-aos="fade-left" data-aos-delay="200">
           <div class="mt-1">
             <div class="h6"><i class="fas fa-phone pe-2 text-muted" style="width:24px;opacity:0.85;"></i> +0513-254-2700</div>
-            <div class="h6"><i class="far fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i> matthewtwall@outlook.com</div>
+            <div class="h6"><i class="far fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i> cgreenland93@gmail.com</div>
           </div>
           <div class="mt-5 d-print-none"><form action="https://formspree.io/f/xdoverpr" method="POST">
   <div class="form-outline mb-4">
@@ -260,9 +260,9 @@
           <div class="footer-nav">
             <nav role="navigation">
               <ul class="nav justify-content-center">
-                <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/matthewtwall/" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">Twitter</span></a>
+                <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/connorgreenland/" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">LinkedIn</span></a>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="https://github.com/waltersavenger" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">Github</span></a>
+                    <li class="nav-item"><a class="nav-link" href="https://github.com/connorgreenland" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">Github</span></a>
                     </li>
               </ul>
             </nav>
