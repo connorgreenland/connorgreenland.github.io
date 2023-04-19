@@ -176,19 +176,19 @@
       <div class="timeline">
         <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
           <div class="timeline-head px-4 pt-3">
-            <div class="h5">Finance Manager <span class="text-muted h6">at TrackAbout</span></div>
+            <div class="h5">Finance Manager <span class="text-muted h6">at Compass East</span></div>
           </div>
           <div class="timeline-body px-4 pb-4">
             <div class="text-muted text-small mb-3">Jan, 2022 - Present</div>
-            <div>Develop, implement, and support .NET web based and Android/IOS application for the tracking of returnable assets.</div>
+            <div> Lead strategic long-term financial planning, modeling, and reporting for high-growth SaaS and service industry clients.</div>
           </div>
         </div>
         <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="200">
           <div class="timeline-head px-4 pt-3">
-            <div class="h5">Software Developer <span class="text-muted h6">at North American Stainless</span></div>
+            <div class="h5">Implementation Manager <span class="text-muted h6">at Compass East</span></div>
           </div>
           <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">July, 2020 - June, 2021</div>
+            <div class="text-muted text-small mb-3">July 2021 - Feb, 2022</div>
             <div>Build and maintain internal WPF and web based applications for the internal tracking and reporting of material and PLC data.</div>
           </div>
         </div>
