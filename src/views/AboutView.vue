@@ -126,17 +126,17 @@
         <div class="col-md-6">
           <div class="mb-3"><span class="fw-bolder">Financial Modeling</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 95%;" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">Master</div>
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 95%;" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">Master: 40+ financial models delivered</div>
             </div>
           </div>
           <div class="mb-3"><span class="fw-bolder">Financial Accounting</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="200" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">Expert</div>
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="200" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">Expert: 70+ clients advised</div>
             </div>
           </div>
           <div class="mb-3"><span class="fw-bolder">SaaS KPIs</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Advanced</div>
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Advanced: 20+ SaaS  </div>
             </div>
           </div>
           <div class="mb-3"><span class="fw-bolder">Benchmarking</span>
@@ -188,17 +188,17 @@
             <div class="h5">Implementation Manager <span class="text-muted h6">at Compass East</span></div>
           </div>
           <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">July 2021 - Feb, 2022</div>
-            <div>Build and maintain internal WPF and web based applications for the internal tracking and reporting of material and PLC data.</div>
+            <div class="text-muted text-small mb-3">July 2020 - Feb, 2022</div>
+            <div> Managed a team of analysts, implementated best-in-class financial systems, and produced GAAP compliant financials.</div>
           </div>
         </div>
         <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="400">
           <div class="timeline-head px-4 pt-3">
-            <div class="h5">Implementation Consultant <span class="text-muted h6">at FAST Enterprises</span></div>
+            <div class="h5">Senior Accountant <span class="text-muted h6">at Compass East Financial</span></div>
           </div>
           <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">August, 2018 - May, 2020</div>
-            <div>Develop, implement, and maintain new tax system software for state departments.</div>
+            <div class="text-muted text-small mb-3">Jan 2018 - June, 2020</div>
+            <div>Developed relationships with clients, maintained finance and accounting operations, and prepared and presented timely financial statements.</div>
           </div>
         </div>
       </div>
@@ -215,7 +215,6 @@
           <div class="timeline-body px-4 pb-4">
             <div class="text-muted text-small mb-3">2014 - 2018</div>
             <div>Dual major in Accounting and Music Business</div>
-            <div>Undergraduate Research Fellowships in the Sciences 2017</div>
           </div>
         </div>
       </div>
