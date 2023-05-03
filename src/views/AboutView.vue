@@ -85,7 +85,8 @@
       <div class="row">
         <div class="col-md-6">
           <h2 class="h2 fw-light mb-4">About Me</h2>
-          <p>Hello! I’m Connor Greenland. I have 7 years of experience offering finance and accounting services for SaaS and high-growth services businesses. My experience and interest are in scaling financial operations for companies earning $1m to $25m in annual revenue. Leveraging my expertise in financial planning and analysis, leadership, and strategic planning, my mission is to drive long-term growth and success for my clients. I bring a proven track record of collaborating with cross-functional teams, fostering a positive work culture, and implementing cutting-edge technologies to achieve corporate goals and objectives.</p>
+          <p>Hello! I’m Connor Greenland. I have 7 years of experience offering finance and accounting services for SaaS and high-growth services businesses. My experience and interest are in scaling financial operations for companies earning $1m to $25m in annual revenue.</p>
+          <p>Leveraging my expertise in financial planning and analysis, leadership, and strategic planning, my mission is to drive long-term growth and success for my clients. I bring a proven track record of collaborating with cross-functional teams, fostering a positive work culture, and implementing cutting-edge technologies to achieve corporate goals and objectives.</p>
         </div>
         <div class="col-md-5 offset-lg-1">
           <div class="row mt-2">
@@ -126,44 +127,44 @@
         <div class="col-md-6">
           <div class="mb-3"><span class="fw-bolder">Financial Modeling</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 95%;" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">Master: 40+ financial models delivered</div>
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">40+ financial models delivered</div>
             </div>
           </div>
           <div class="mb-3"><span class="fw-bolder">Financial Accounting</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="200" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">Expert: 70+ clients advised</div>
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="200" data-aos-anchor=".skills-section" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">70+ clients advised</div>
             </div>
           </div>
           <div class="mb-3"><span class="fw-bolder">SaaS KPIs</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Advanced: 20+ SaaS  </div>
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">30+ SaaS</div>
             </div>
           </div>
-          <div class="mb-3"><span class="fw-bolder">Benchmarking</span>
+          <div class="mb-3"><span class="fw-bolder">Technology Implementation</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Advanced</div>
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">25+ Systems Implemented</div>
             </div>
           </div>
         </div>
         <div class="col-md-6">
           <div class="mb-3"><span class="fw-bolder">Budgeting</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">Master</div>
+              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           <div class="mb-3"><span class="fw-bolder">Strategic Financial Planning</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">Expert</div>
+              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           <div class="mb-3"><span class="fw-bolder">Technology Implementation</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="500" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">Advanced</div>
+              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="500" data-aos-anchor=".skills-section" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           <div class="mb-3"><span class="fw-bolder">Staff Development</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="600" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Advanced</div>
+              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="600" data-aos-anchor=".skills-section" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
         </div>
@@ -210,10 +211,10 @@
       <div class="timeline">
         <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="200">
           <div class="timeline-head px-4 pt-3">
-            <div class="h5">Bachelor of Science <span class="text-muted h6">from Belmont University</span>          </div>
+            <div class="h5">Bachelor of Business <span class="text-muted h6">from Belmont University</span>          </div>
           </div>
           <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">2014 - 2018</div>
+            <div class="text-muted text-small mb-3">2012 - 2016</div>
             <div>Dual major in Accounting and Music Business</div>
           </div>
         </div>
